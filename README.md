@@ -16,7 +16,7 @@ terminal>> git clone https://github.com/leilabbb/OOI-notebooks-4-class.git
 
 terminal>> cd /Users/leila/Documents/repo/OOI-notebooks-4-class/
 
-** Step3:**
+**Step3:**
 - To activate the jupyter notebook:
 
 terminal>> jupyter notebook
