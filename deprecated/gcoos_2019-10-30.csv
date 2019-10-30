@@ -1,0 +1,9 @@
+owner,platform,lat,lon,observationDate,depth,DO,qcFlag 
+LUMCON,LUML1,29.2533,-90.6633,2019-10-30T00:00:00Z,2.162,8.24,11111222
+LUMCON,LUML1,29.2533,-90.6633,2019-10-30T00:15:00Z,2.172,8.31,11111222
+LUMCON,LUML1,29.2533,-90.6633,2019-10-30T00:30:00Z,2.179,8.29,11111222
+LUMCON,LUML1,29.2533,-90.6633,2019-10-30T00:45:00Z,2.19,8.38,11111222
+LUMCON,LUML1,29.2533,-90.6633,2019-10-30T01:00:00Z,2.208,8.35,11111222
+LUMCON,LUML1,29.2533,-90.6633,2019-10-30T01:15:00Z,2.22,8.37,11111222
+
+DISCLAIMER: The Gulf of Mexico Coastal and Ocean Observing (GCOOS) Data Portal aggregates data from the regional data providers for the convenience of all data users. Data published on this website should not be used for navigation or certain other uses as we cannot guarantee data accuracy or availability. The data and delivery services are provided 'as is' without warranty of any kind. Data Source: Gulf of Mexico Coastal Ocean Observing System Data Portal (http://data.gcoos.org/). Date Generated: 2019-10-30
