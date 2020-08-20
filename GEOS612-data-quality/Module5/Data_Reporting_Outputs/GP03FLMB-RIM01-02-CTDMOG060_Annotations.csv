@@ -1,0 +1,8 @@
+,id,reference_designator,method,stream,parameter,start_datetime,end_datetime,annotation,exclusionFlag,qcFlag,source
+0,154,GP03FLMB,,,,2013-07-24T02:32:00+00:00,2014-06-17T20:00:00+00:00,Deployment 1: Mooring was deployed 5-10m shallower than planned.,False,,lgarzio@marine.rutgers.edu
+1,584,GP03FLMB-RIM01-02-CTDMOG060,,,,2014-06-19T22:00:00+00:00,2015-06-06T20:00:00+00:00,Deployment 2: Recovered data are not available for this deployment.,False,,lgarzio@marine.rutgers.edu
+2,155,GP03FLMB,,,,2014-06-19T22:00:00+00:00,2015-06-06T20:00:00+00:00,"Deployment 2: Mooring was deployed 10-15m shallower than planned. Upon recovery of platform, biofouling was apparent on shallow CTDs.",False,,lgarzio@marine.rutgers.edu
+3,156,GP03FLMB,,,,2015-06-08T17:25:00+00:00,2016-07-03T14:35:00+00:00,Deployment 3: Mooring was deployed 10m deeper than planned.,False,,lgarzio@marine.rutgers.edu
+4,157,GP03FLMB,,,,2016-07-04T19:07:00+00:00,2017-07-17T11:02:00+00:00,Deployment 4: Mooring was deployed 10m deeper than planned.,False,,lgarzio@marine.rutgers.edu
+5,2165,GP03FLMB-RIM01-02-CTDMOG060,,,,2017-07-14T18:49:00+00:00,2018-07-25T13:11:00+00:00,"Deployment 5: It was discovered upon recovery that the inductive line was broken during this deployment and no data were sent from the CTDs to the controller. Due to this, and the fact that gliders were not deployed at Papa this year, no recovered host or telemetered data are available for this instrument. Recovered instrument data are available.",False,not_operational,cdobson@whoi.edu
+6,142,GP03FLMB,,,,2017-07-14T18:49:00+00:00,2018-07-25T13:11:00+00:00,Deployment 5: Telemetered data are not available for this deployment because gliders were not deployed.,False,,lgarzio@marine.rutgers.edu
